@@ -41,7 +41,7 @@ class AdalineSGD(object):
         """ Fit training data.
 
         Parameters
-        ----------
+        ---------
         X : {array-like}, shape = [n_examples, n_features]
             Training vectors, where n_examples is the number of
             examples and n_features is the number of features.
